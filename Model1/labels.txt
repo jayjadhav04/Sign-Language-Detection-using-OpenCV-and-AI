@@ -1,0 +1,24 @@
+0 Beutiful
+1 Byee
+2 Calm Down
+3 Friend
+4 Go to Hell
+5 Good Luck
+6 Hello
+7 Help
+8 I am
+9 I am Hungry
+10 I Hate You
+11 I Love You
+12 I Need You
+13 Me Too
+14 More
+15 No
+16 Ok
+17 Small
+18 Smile
+19 Sorry
+20 That's  it
+21 Washroom
+22 Where
+23 You

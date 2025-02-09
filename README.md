@@ -14,6 +14,7 @@ Features
 
 
 Project Structure :
+
 Sign-Language-Detection/
 │── Data/                # Collected hand sign images
 │── Model1/              # Trained AI model
